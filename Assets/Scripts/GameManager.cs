@@ -6,22 +6,25 @@ using TMPro;
 
 public class GameManager : MonoBehaviour
 {
-    public int PointsCollected = 0;
+    public static GameManager Instance;
+
+    private int score = 0;
     public TextMeshProUGUI PointsOutput;
+
+    void Awake()
+    {
+        Instance = this;
+    }
+
 
     void Update()
     {
-        PointsOutput.text = "Score: " + PointsCollected;
+        PointsOutput.text = "Score: " + score;
     }
+
 
     public void CollectPoint()
     {
-        PointsCollected++;
+        score++;
     }
-
-    public void LosePoint()
-    {
-        PointsCollected--;
-    }
-
 }

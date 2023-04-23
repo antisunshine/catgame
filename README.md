@@ -80,3 +80,25 @@ Launch scheduled 24.4.2023
 ## POSSIBLE HURDLES
 
 Limited time will cut back on the amount of features we are able to impliment.
+
+## CREDITS
+
+Art:
+
+Jenna Törmänen
+Monster1
+
+Maiju Juola
+Monster2
+
+Susanne Koljonen
+Cat
+Background menu
+Backround bedroom
+
+main music:
+"dark mysterious halloween night" - Sound Gallery by Dmitry Taras
+
+SFX:
+
+"cat call (meow)" - Jofae

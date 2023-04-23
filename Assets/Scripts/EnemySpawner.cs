@@ -14,6 +14,8 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField]
     private float monsterInterval2 = 10f;
 
+    public AudioSource audioPlayer;
+
     // Start is called before the first frame update
     void Start()
     {

@@ -12,7 +12,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveInput;
     private List<RaycastHit2D> castCollisions = new List<RaycastHit2D>();
     private Rigidbody2D rb;
-    
+
+    public AudioSource audioPlayer;
     private Animator animator;
 
     private void Start()
@@ -93,6 +94,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnFire()
     {
+        audioPlayer.Play();
         print("Meow");
     }
 }

@@ -83,22 +83,34 @@ Limited time will cut back on the amount of features we are able to impliment.
 
 ## CREDITS
 
-Art:
+**Art:**
 
 Jenna Törmänen
+
 Monster1
 
 Maiju Juola
+
 Monster2
 
 Susanne Koljonen
+
 Cat
+
 Background menu
+
 Backround bedroom
 
-main music:
+**Music:**
+
 "dark mysterious halloween night" - Sound Gallery by Dmitry Taras
 
-SFX:
+"halloween spooky" - Sound Gallery By Dmitry Taras
+
+**SFX:**
 
 "cat call (meow)" - Jofae
+
+"big punch with whoosh" - Paul368
+
+"hiss3" - Reitanna
